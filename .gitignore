@@ -2,4 +2,11 @@ bin/
 obj/
 /packages/
 riderModule.iml
-/_ReSharper.Caches/
+/_ReSharper.Caches/# Rider / JetBrains
+.idea/
+.vs/
+
+# .NET build output
+bin/
+obj/
+*.user
